@@ -9,5 +9,5 @@
 * [递归](di_gui.md)
 * [排序和查找](pai_xu_he_cha_zhao.md)
 * [树和树算法](shu_he_shu_suan_fa.md)
-* 图和图算法
+* [图和图算法](tu_he_tu_suan_fa.md)
 
