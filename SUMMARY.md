@@ -1,7 +1,7 @@
 # Summary
 
 * [1.介绍](README.md)
-* [介绍](1jie_shao.md)
+* [介绍](1jieshao_md.md)
    * [准备开始](zhunbei_kai_shi_md.md)
 * [目标](11mu_biao.md)
 * [算法分析](chapter1.md)
