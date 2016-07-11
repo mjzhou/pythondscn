@@ -5,7 +5,7 @@
    * [目标](11mu_biao.md)
    * [准备开始](zhunbei_kai_shi_md.md)
 * [算法分析](chapter1.md)
-* 基本数据结构
+* [基本数据结构](ji_ben_shu_ju_jie_gou.md)
 * [递归](di_gui.md)
 * 排序和查找
 * [树和树算法](shu_he_shu_suan_fa.md)
