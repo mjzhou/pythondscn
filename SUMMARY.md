@@ -2,7 +2,7 @@
 
 * [1.介绍](README.md)
 * [Introduction](introduction.md)
-   * 目标
+   * [目标](mu_biao.md)
 * [算法分析](chapter1.md)
 * [基本数据结构](ji_ben_shu_ju_jie_gou.md)
 * [递归](di_gui.md)
