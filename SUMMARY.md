@@ -8,6 +8,6 @@
 * 3.基本数据结构
 * 4.递归
 * 排序和查找
-* [6.树和树算法](shu_he_shu_suan_fa.md)
+* [树和树算法](shu_he_shu_suan_fa.md)
 * 图和图算法
 
