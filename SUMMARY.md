@@ -4,6 +4,7 @@
 * [Introduction](introduction.md)
    * [目标](mu_biao.md)
 * [分析](chapter1.md)
+   * 目标
 * [基本数据结构](ji_ben_shu_ju_jie_gou.md)
 * [递归](di_gui.md)
 * [排序和查找](pai_xu_he_cha_zhao.md)
