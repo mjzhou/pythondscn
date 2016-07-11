@@ -1,7 +1,5 @@
 # 什么是算法分析
-It is very common for beginning computer science students to compare their programs with
-one another. You may also have noticed that it is common for computer programs to look very
-similar, especially the simple ones. 一个有趣的问题经常出现. 当两个看起来不同的程序解决相同的问题时，是否一个程序比另外一个更好?
+ 计算机科学系的学生比较他们的程序是非常常见的。你可能注意到计算程序看起来非常相似，特别是简单的那个。 一个有趣的问题经常出现。当两个看起来不同的程序解决相同的问题时，是否一个程序比另外一个更好？
 
 为了能够回答这个问题, we need to remember that there is an important difference
 between a program and the underlying algorithm that the program is representing. As we stated
