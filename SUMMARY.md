@@ -3,6 +3,7 @@
 * [使用Python解决算法与数据结构问题](README.md)
 * [1.介绍](source/chapter1/introductionmd.md)
    * [1.1目标](mu_biao.md)
+   * 1.2快速开始
 * [分析](chapter1.md)
    * [目标](2.1mu_biao.md)
    * [什么是算法分析](2.2shi_yao_shi_suan_fa_fen_xi.md)
