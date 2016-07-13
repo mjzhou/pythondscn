@@ -9,16 +9,16 @@
 	* [1.3.3 介绍](source/chapter1/WhyStudyAlgorithms.md)
 	* [1.4 回顾Python基本知识](source/chapter1/ReviewofBasicPython.md)
 	* [1.4.1 用数据开始](source/chapter1/GettingStartedwithData.md)
-	* [内置元数据类型](source/chapter1/GettingStartedwithData.md)#built-in-atomic-data-types
-	* [内置集合数据类型](source/chapter1/GettingStartedwithData.md)#built-in-collection-data-types
+	* [内置元数据类型](source/chapter1/GettingStartedwithData.md#built-in-atomic-data-types)
+	* [内置集合数据类型](source/chapter1/GettingStartedwithData.md#built-in-collection-data-types)
 	* [1.4.2 介绍](source/chapter1/InputandOutput.md)
 	* [字符串格式化](source/chapter1/InputandOutput.md)#string-formatting
 	* [1.4.3 控制结构](source/chapter1/ControlStructures.md)
 	* [1.4.4 异常处理](source/chapter1/ExceptionHandling.md)
 	* [1.4.5 定义函数](source/chapter1/DefiningFunctions.md)
 	* [1.4.6 在Python中面向对象编程:定义类](source/chapter1/ObjectOrientedProgramminginPythonDefiningClasses.md)
-	* [一个分数类](source/chapter1/ObjectOrientedProgramminginPythonDefiningClasses.md)#a-fraction-class
-	* [继承:逻辑门和电路](source/chapter1/ObjectOrientedProgramminginPythonDefiningClasses.md)#inheritance-logic-gates-and-circuits
+	* [一个分数类](source/chapter1/ObjectOrientedProgramminginPythonDefiningClasses.md#a-fraction-class)
+	* [继承:逻辑门和电路](source/chapter1/ObjectOrientedProgramminginPythonDefiningClasses.md#inheritance-logic-gates-and-circuits)
 	* [1.5 总结](source/chapter1/Summary.md)
 	* [1.6 关键词](source/chapter1/KeyTerms.md)
 	* [讨论问题](source/chapter1/DiscussionQuestions.md)
