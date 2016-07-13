@@ -4,7 +4,7 @@
 * [1.介绍](source/chapter1/introductionmd.md)
    * [1.1目标](mu_biao.md)
    * [1.2快速开始](source/chapter1/1.2GettingStarted.md)
-* [分析](chapter1.md)
+* [2.分析](chapter1.md)
    * [目标](2.1mu_biao.md)
    * [什么是算法分析](2.2shi_yao_shi_suan_fa_fen_xi.md)
 * [基本数据结构](ji_ben_shu_ju_jie_gou.md)
