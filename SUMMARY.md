@@ -1,7 +1,7 @@
 # Summary
 
 * [使用Python解决算法与数据结构问题](README.md)
-* [1.介绍](source/chapter1/introductionmd.md)
+* [1. 介绍](source/chapter1/introductionmd.md)
    * [1.1目标](mu_biao.md)
    * [1.2快速开始](source/chapter1/1.2GettingStarted.md)
 * [2. 分析](chapter1.md)
