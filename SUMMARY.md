@@ -1,28 +1,28 @@
 # Summary
 * [使用Python解决算法与数据结构问题](README.md)
 * [1. 介绍](source/chapter1/1.Introduction.md)
-	* [1. 目标](source/chapter1/Objectives.md)
-	* [1. 快速开始](source/chapter1/GettingStarted.md)
-	* [1. 什么是计算机科学](source/chapter1/WhatIsComputerScience.md)
-	* [1. 介绍](source/chapter1/WhatIsProgramming.md)
-	* [1. 介绍](source/chapter1/WhyStudyDataStructuresandAbstractDataTypes.md)
-	* [1. 介绍](source/chapter1/WhyStudyAlgorithms.md)
-	* [1. 介绍](source/chapter1/ReviewofBasicPython.md)
-	* [1. 介绍](source/chapter1/GettingStartedwithData.md)
-	* [1. 介绍](source/chapter1/GettingStartedwithData.md)#built-in-atomic-data-types
-	* [1. 介绍](source/chapter1/GettingStartedwithData.md)#built-in-collection-data-types
-	* [1. 介绍](source/chapter1/InputandOutput.md)
-	* [1. 介绍](source/chapter1/InputandOutput.md)#string-formatting
-	* [1. 介绍](source/chapter1/ControlStructures.md)
-	* [1. 介绍](source/chapter1/ExceptionHandling.md)
-	* [1. 介绍](source/chapter1/DefiningFunctions.md)
-	* [1. 介绍](source/chapter1/ObjectOrientedProgramminginPythonDefiningClasses.md)
-	* [1. 介绍](source/chapter1/ObjectOrientedProgramminginPythonDefiningClasses.md)#a-fraction-class
-	* [1. 介绍](source/chapter1/ObjectOrientedProgramminginPythonDefiningClasses.md)#inheritance-logic-gates-and-circuits
-	* [1. 介绍](source/chapter1/Summary.md)
-	* [1. 介绍](source/chapter1/KeyTerms.md)
-	* [1. 介绍](source/chapter1/DiscussionQuestions.md)
-	* [1. 介绍](source/chapter1/ProgrammingExercises.md)
+	* [1.1 目标](source/chapter1/1.1Objectives.md)
+	* [1.2 快速开始](source/chapter1/1.2GettingStarted.md)
+	* [1.3 什么是计算机科学？](source/chapter1/1.3WhatIsComputerScience.md)
+	* [1.3.1 什么是程序？](source/chapter1/WhatIsProgramming.md)
+	* [1.3.2 介绍](source/chapter1/WhyStudyDataStructuresandAbstractDataTypes.md)
+	* [1.3.3 介绍](source/chapter1/WhyStudyAlgorithms.md)
+	* [1.4 回顾Python基本知识](source/chapter1/ReviewofBasicPython.md)
+	* [1.4.1 用数据开始](source/chapter1/GettingStartedwithData.md)
+		* [内置元数据类型](source/chapter1/GettingStartedwithData.md)#built-in-atomic-data-types
+		* [内置集合数据类型](source/chapter1/GettingStartedwithData.md)#built-in-collection-data-types
+	* [1.4.2 介绍](source/chapter1/InputandOutput.md)
+		* [字符串格式化](source/chapter1/InputandOutput.md)#string-formatting
+	* [1.4.3 控制结构](source/chapter1/ControlStructures.md)
+	* [1.4.4 异常处理](source/chapter1/ExceptionHandling.md)
+	* [1.4.5 定义函数](source/chapter1/DefiningFunctions.md)
+	* [1.4.6 在Python中面向对象编程:定义类](source/chapter1/ObjectOrientedProgramminginPythonDefiningClasses.md)
+		* [一个分数类](source/chapter1/ObjectOrientedProgramminginPythonDefiningClasses.md)#a-fraction-class
+		* [继承:逻辑门和电路](source/chapter1/ObjectOrientedProgramminginPythonDefiningClasses.md)#inheritance-logic-gates-and-circuits
+	* [1.5 总结](source/chapter1/Summary.md)
+	* [1.6 关键词](source/chapter1/KeyTerms.md)
+		* [讨论问题](source/chapter1/DiscussionQuestions.md)
+	* [1.7 程序练习](source/chapter1/ProgrammingExercises.md)
 * [2. 分析](source/chapter2/2.Introduction.md)
 	* [2. 分析](source/chapter2/Objectives.md)
 	* [2. 分析](source/chapter2/WhatIsAlgorithmAnalysis.md)
@@ -78,7 +78,7 @@
 	* [3. 基本数据结构](source/chapter3/ProgrammingExercises.md)
 * [4. 递归](source/chapter4/Objectives.md)
 	* [4. 递归](source/chapter4/Objectives.md)
-	* [4. 递归](source/chapter4/WhatIs*
+	* [4. 递归](source/chapter4/WhatIsRecursion.md)
 	* [4. 递归](source/chapter4/pythondsCalculatingtheSumofaListofNumbers.md)
 	* [4. 递归](source/chapter4/TheThreeLawsof* [4. 递归](source/chapter4.md)
 	* [4. 递归](source/chapter4/pythondsConvertinganIntegertoaStringinAnyBase.md)
