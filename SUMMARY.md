@@ -64,7 +64,7 @@
 	* [3.16 双端队列的抽象数据类型](source/chapter3/16_TheDequeAbstractDataType.md)
 	* [3.17 用Python实现双端队列](source/chapter3/17_ImplementingaDequeinPython.md)
 	* [3.18 基本数据结构](source/chapter3/18_PalindromeChecker.md)
-	* [3.19 基本数据结构](source/chapter3/19_Lists.md)
+	* [3.19 链表](source/chapter3/19_Lists.md)
 	* [3.20 基本数据结构](source/chapter3/20_TheUnorderedListAbstractDataType.md)
 	* [3.21 基本数据结构](source/chapter3/21_ImplementinganUnorderedListLinkedLists.md)
 	* [3.21.1 基本数据结构](source/chapter3/21_ImplementinganUnorderedListLinkedLists.md#the-node-class)
