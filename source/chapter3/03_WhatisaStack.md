@@ -20,5 +20,12 @@
 
 <center>Figure 3: The Reversal Property of Stacks</center>
 
+.. _fig_reversal:
+
+.. figure:: Figures/simplereversal.png
+   :align: center
+
+   Figure 3: The Reversal Property of Stacks
+
 栈这种翻转性，在你用电脑上网的时候也用到了。浏览器软件上都有“返回”按钮，当你从一个链接到另一个链接，这时网址（URL）就被存进了栈。正在浏览的页就存在栈顶，点“返回”的时候，返回到刚刚浏览的页面。最早浏览的页面，要一直到最后才能看到。
 
