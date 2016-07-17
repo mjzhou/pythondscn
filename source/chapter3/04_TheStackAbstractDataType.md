@@ -11,16 +11,16 @@
 
 例如，s是一个空栈，表1是一系列的操作，栈内数据和返回值。注意栈顶在右侧。
 
-|Stack Operation |	Stack Contents |Return Value |
-| -- | -- | -- |
-|`s.isEmpty()`	|`[]`|	`True`|
-|`s.push(4)`	|`[4]`|	 |
-|`s.push('dog')`	|`[4,'dog']`||	 
-|`s.peek()`	|`[4,'dog']`|	`'dog'`|
-|`s.push(True)`	|`[4,'dog',True]`|	| 
-|`s.size()`	|`[4,'dog',True]`|	`3`|
-|`s.isEmpty()`	|`[4,'dog',True]`|	`False`|
-|`s.push(8.4)`	|`[4,'dog',True,8.4]`|	 |
-|`s.pop()`	|`[4,'dog',True]`|	`8.4`|
-|`s.pop()`	|`[4,'dog']`|	`True`|
-|`s.size()`	|`[4,'dog']`|	`2`|
+|Stack Operation         | Stack Contents           | Return Value  |
+| ------------- |-------------| ----- |
+| `s.isEmpty()`	|`[]`|	`True`|
+| `s.push(4)`	|`[4]`|	 |
+| `s.push('dog')`	|`[4,'dog']`||	 
+| `s.peek()`	|`[4,'dog']`|	`'dog'`|
+| `s.push(True)`	|`[4,'dog',True]`|	| 
+| `s.size()`	|`[4,'dog',True]`|	`3`|
+| `s.isEmpty()`	|`[4,'dog',True]`|	`False`|
+| `s.push(8.4)`	|`[4,'dog',True,8.4]`|	 |
+| `s.pop()`	|`[4,'dog',True]`|	`8.4`|
+| `s.pop()`	|`[4,'dog']`|	`True`|
+| `s.size()`	|`[4,'dog']`|	`2`|
